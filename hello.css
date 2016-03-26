@@ -1,9 +1,0 @@
-:root
-{
-	--hello: yellow;
-}
-
-body
-{
-	background: var(--hello);
-}
